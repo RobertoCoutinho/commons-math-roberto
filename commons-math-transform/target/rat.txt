@@ -1,0 +1,44 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2022-11-22T23:10:15-03:00
+
+Notes: 1
+Binaries: 0
+Archives: 0
+Standards: 17
+
+Apache Licensed: 17
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-transform/LICENCE
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-transform/pom.xml
+  N     /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-transform/NOTICE
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-transform/src/test/java/org/apache/commons/math4/transform/RealTransformerAbstractTest.java
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-transform/src/test/java/org/apache/commons/math4/transform/TransformUtilsTest.java
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-transform/src/test/java/org/apache/commons/math4/transform/FastFourierTransformerTest.java
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-transform/src/test/java/org/apache/commons/math4/transform/FastHadamardTransformerTest.java
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-transform/src/test/java/org/apache/commons/math4/transform/FastCosineTransformerTest.java
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-transform/src/test/java/org/apache/commons/math4/transform/FastSineTransformerTest.java
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-transform/src/main/java/org/apache/commons/math4/transform/FastFourierTransform.java
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-transform/src/main/java/org/apache/commons/math4/transform/FastSineTransform.java
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-transform/src/main/java/org/apache/commons/math4/transform/FastCosineTransform.java
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-transform/src/main/java/org/apache/commons/math4/transform/FastHadamardTransform.java
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-transform/src/main/java/org/apache/commons/math4/transform/package-info.java
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-transform/src/main/java/org/apache/commons/math4/transform/TransformUtils.java
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-transform/src/main/java/org/apache/commons/math4/transform/RealTransform.java
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-transform/src/main/java/org/apache/commons/math4/transform/ComplexTransform.java
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-transform/src/main/java/org/apache/commons/math4/transform/TransformException.java
+ 
+*****************************************************

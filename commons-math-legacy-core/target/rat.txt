@@ -1,0 +1,51 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2022-11-22T23:09:52-03:00
+
+Notes: 1
+Binaries: 0
+Archives: 0
+Standards: 24
+
+Apache Licensed: 24
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-legacy-core/LICENCE
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-legacy-core/pom.xml
+  N     /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-legacy-core/NOTICE
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-legacy-core/src/test/java/org/apache/commons/math4/legacy/core/dfp/DfpTest.java
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-legacy-core/src/test/java/org/apache/commons/math4/legacy/core/dfp/Decimal10.java
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-legacy-core/src/test/java/org/apache/commons/math4/legacy/core/dfp/DfpMathTest.java
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-legacy-core/src/test/java/org/apache/commons/math4/legacy/core/dfp/DfpDecTest.java
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-legacy-core/src/test/java/org/apache/commons/math4/legacy/core/PairTest.java
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-legacy-core/src/test/java/org/apache/commons/math4/legacy/core/MathArraysTest.java
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-legacy-core/src/test/java/org/apache/commons/math4/legacy/core/ExtendedFieldElementAbstractTest.java
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-legacy-core/src/test/java/org/apache/commons/math4/legacy/core/jdkmath/AccurateMathStrictComparisonTest.java
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-legacy-core/src/test/java/org/apache/commons/math4/legacy/core/jdkmath/AccurateMathTest.java
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-legacy-core/src/test/java/org/apache/commons/math4/legacy/core/IntegerSequenceTest.java
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-legacy-core/src/main/java/org/apache/commons/math4/legacy/core/RealFieldElement.java
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-legacy-core/src/main/java/org/apache/commons/math4/legacy/core/dfp/DfpField.java
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-legacy-core/src/main/java/org/apache/commons/math4/legacy/core/dfp/DfpDec.java
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-legacy-core/src/main/java/org/apache/commons/math4/legacy/core/dfp/Dfp.java
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-legacy-core/src/main/java/org/apache/commons/math4/legacy/core/dfp/package-info.java
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-legacy-core/src/main/java/org/apache/commons/math4/legacy/core/dfp/DfpMath.java
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-legacy-core/src/main/java/org/apache/commons/math4/legacy/core/MathArrays.java
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-legacy-core/src/main/java/org/apache/commons/math4/legacy/core/Pair.java
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-legacy-core/src/main/java/org/apache/commons/math4/legacy/core/Field.java
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-legacy-core/src/main/java/org/apache/commons/math4/legacy/core/package-info.java
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-legacy-core/src/main/java/org/apache/commons/math4/legacy/core/IntegerSequence.java
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-legacy-core/src/main/java/org/apache/commons/math4/legacy/core/FieldElement.java
+ 
+*****************************************************

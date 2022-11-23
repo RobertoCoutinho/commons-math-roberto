@@ -1,0 +1,32 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2022-11-22T23:10:15-03:00
+
+Notes: 1
+Binaries: 0
+Archives: 0
+Standards: 5
+
+Apache Licensed: 5
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-examples/examples-kmeans/image/LICENCE
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-examples/examples-kmeans/image/pom.xml
+  N     /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-examples/examples-kmeans/image/NOTICE
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-examples/examples-kmeans/image/src/main/java/org/apache/commons/math4/examples/kmeans/image/StandAlone.java
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-examples/examples-kmeans/image/src/main/java/org/apache/commons/math4/examples/kmeans/image/package-info.java
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-examples/examples-kmeans/image/src/main/java/org/apache/commons/math4/examples/kmeans/image/ImageData.java
+ 
+*****************************************************

@@ -1,0 +1,80 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2022-11-22T23:09:49-03:00
+
+Notes: 1
+Binaries: 0
+Archives: 0
+Standards: 53
+
+Apache Licensed: 53
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-legacy-exception/LICENCE
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-legacy-exception/pom.xml
+  N     /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-legacy-exception/NOTICE
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-legacy-exception/src/test/java/org/apache/commons/math4/legacy/exception/NonMonotonicSequenceExceptionTest.java
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-legacy-exception/src/test/java/org/apache/commons/math4/legacy/exception/NotFiniteNumberExceptionTest.java
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-legacy-exception/src/test/java/org/apache/commons/math4/legacy/exception/NullArgumentExceptionTest.java
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-legacy-exception/src/test/java/org/apache/commons/math4/legacy/exception/MaxCountExceededExceptionTest.java
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-legacy-exception/src/test/java/org/apache/commons/math4/legacy/exception/NumberIsTooLargeExceptionTest.java
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-legacy-exception/src/test/java/org/apache/commons/math4/legacy/exception/DimensionMismatchExceptionTest.java
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-legacy-exception/src/test/java/org/apache/commons/math4/legacy/exception/NotPositiveExceptionTest.java
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-legacy-exception/src/test/java/org/apache/commons/math4/legacy/exception/NumberIsTooSmallExceptionTest.java
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-legacy-exception/src/test/java/org/apache/commons/math4/legacy/exception/OutOfRangeExceptionTest.java
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-legacy-exception/src/test/java/org/apache/commons/math4/legacy/exception/util/ExceptionContextTest.java
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-legacy-exception/src/test/java/org/apache/commons/math4/legacy/exception/util/LocalizedFormatsTest.java
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-legacy-exception/src/test/java/org/apache/commons/math4/legacy/exception/util/ArgUtilsTest.java
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-legacy-exception/src/test/java/org/apache/commons/math4/legacy/exception/TooManyEvaluationsExceptionTest.java
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-legacy-exception/src/test/java/org/apache/commons/math4/legacy/exception/NotStrictlyPositiveExceptionTest.java
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-legacy-exception/src/main/java/org/apache/commons/math4/legacy/exception/TooManyIterationsException.java
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-legacy-exception/src/main/java/org/apache/commons/math4/legacy/exception/MathInternalError.java
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-legacy-exception/src/main/java/org/apache/commons/math4/legacy/exception/NotPositiveException.java
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-legacy-exception/src/main/java/org/apache/commons/math4/legacy/exception/NotANumberException.java
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-legacy-exception/src/main/java/org/apache/commons/math4/legacy/exception/TooManyEvaluationsException.java
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-legacy-exception/src/main/java/org/apache/commons/math4/legacy/exception/MathIllegalArgumentException.java
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-legacy-exception/src/main/java/org/apache/commons/math4/legacy/exception/MathIllegalStateException.java
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-legacy-exception/src/main/java/org/apache/commons/math4/legacy/exception/NoBracketingException.java
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-legacy-exception/src/main/java/org/apache/commons/math4/legacy/exception/NotStrictlyPositiveException.java
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-legacy-exception/src/main/java/org/apache/commons/math4/legacy/exception/MathParseException.java
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-legacy-exception/src/main/java/org/apache/commons/math4/legacy/exception/MathRuntimeException.java
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-legacy-exception/src/main/java/org/apache/commons/math4/legacy/exception/MathUnsupportedOperationException.java
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-legacy-exception/src/main/java/org/apache/commons/math4/legacy/exception/NullArgumentException.java
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-legacy-exception/src/main/java/org/apache/commons/math4/legacy/exception/package-info.java
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-legacy-exception/src/main/java/org/apache/commons/math4/legacy/exception/InsufficientDataException.java
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-legacy-exception/src/main/java/org/apache/commons/math4/legacy/exception/MultiDimensionMismatchException.java
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-legacy-exception/src/main/java/org/apache/commons/math4/legacy/exception/NotFiniteNumberException.java
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-legacy-exception/src/main/java/org/apache/commons/math4/legacy/exception/MathIllegalNumberException.java
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-legacy-exception/src/main/java/org/apache/commons/math4/legacy/exception/NumberIsTooLargeException.java
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-legacy-exception/src/main/java/org/apache/commons/math4/legacy/exception/MaxCountExceededException.java
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-legacy-exception/src/main/java/org/apache/commons/math4/legacy/exception/NumberIsTooSmallException.java
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-legacy-exception/src/main/java/org/apache/commons/math4/legacy/exception/ZeroException.java
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-legacy-exception/src/main/java/org/apache/commons/math4/legacy/exception/util/ExceptionContextProvider.java
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-legacy-exception/src/main/java/org/apache/commons/math4/legacy/exception/util/DummyLocalizable.java
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-legacy-exception/src/main/java/org/apache/commons/math4/legacy/exception/util/LocalizedFormats.java
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-legacy-exception/src/main/java/org/apache/commons/math4/legacy/exception/util/package-info.java
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-legacy-exception/src/main/java/org/apache/commons/math4/legacy/exception/util/ExceptionContext.java
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-legacy-exception/src/main/java/org/apache/commons/math4/legacy/exception/util/ArgUtils.java
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-legacy-exception/src/main/java/org/apache/commons/math4/legacy/exception/util/Localizable.java
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-legacy-exception/src/main/java/org/apache/commons/math4/legacy/exception/DimensionMismatchException.java
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-legacy-exception/src/main/java/org/apache/commons/math4/legacy/exception/NonMonotonicSequenceException.java
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-legacy-exception/src/main/java/org/apache/commons/math4/legacy/exception/OutOfRangeException.java
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-legacy-exception/src/main/java/org/apache/commons/math4/legacy/exception/MathArithmeticException.java
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-legacy-exception/src/main/java/org/apache/commons/math4/legacy/exception/ConvergenceException.java
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-legacy-exception/src/main/java/org/apache/commons/math4/legacy/exception/NoDataException.java
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-legacy-exception/src/main/resources/assets/org/apache/commons/math4/legacy/exception/util/LocalizedFormats_en.properties
+  AL    /home/xxxx/Documentos/trabalhosmells2/commons-math-roberto/commons-math-legacy-exception/src/main/resources/assets/org/apache/commons/math4/legacy/exception/util/LocalizedFormats_fr.properties
+ 
+*****************************************************

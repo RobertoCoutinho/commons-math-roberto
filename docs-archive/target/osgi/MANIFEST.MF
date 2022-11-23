@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 17
+Bundle-Description: Aggregator module to genenerate Apache Commons Math 
+ documentation.
+Bundle-DocURL: http://commons.apache.org/proper/commons-math/commons-mat
+ h-docs/
+Bundle-License: https://www.apache.org/licenses/LICENSE-2.0.txt
+Bundle-ManifestVersion: 2
+Bundle-Name: Apache Commons Math Documentation
+Bundle-SymbolicName: org.apache.commons.math4
+Bundle-Vendor: The Apache Software Foundation
+Bundle-Version: 4.0.0.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin 5.1.8
+Export-Package: org.apache.commons.math4;version="4.0.0"
+Tool: Bnd-6.3.1.202206071316
