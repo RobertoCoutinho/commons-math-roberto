@@ -413,27 +413,6 @@ public class EigenDecompositionTest {
         checkUnsymmetricMatrix(MatrixUtils.createRealMatrix(randData2));
     }
 
-    @Test
-    @Ignore
-    public void testRandomUnsymmetricMatrix() {
-        for (int run = 0; run < 100; run++) {
-            Random r = new Random(System.currentTimeMillis());
-
-            // matrix size
-            int size = r.nextInt(20) + 4;
-
-            double[][] data = new double[size][size];
-            for (int i = 0; i < size; i++) {
-                for (int j = 0; j < size; j++) {
-                    data[i][j] = r.nextInt(100);
-                }
-            }
-
-            RealMatrix m = MatrixUtils.createRealMatrix(data);
-            checkUnsymmetricMatrix(m);
-        }
-    }
-
     /**
      * Tests the porting of a bugfix in Jama-1.0.3 (from changelog):
      *
@@ -452,29 +431,6 @@ public class EigenDecompositionTest {
 
         RealMatrix m = MatrixUtils.createRealMatrix(data);
         checkUnsymmetricMatrix(m);
-    }
-
-    @Test
-    @Ignore
-    public void testNormalDistributionUnsymmetricMatrix() {
-        for (int run = 0; run < 100; run++) {
-            Random r = new Random(System.currentTimeMillis());
-            ContinuousDistribution.Sampler dist
-                = NormalDistribution.of(0.0, r.nextDouble() * 5).createSampler(RandomSource.WELL_512_A.create(64925784252L));
-
-            // matrix size
-            int size = r.nextInt(20) + 4;
-
-            double[][] data = new double[size][size];
-            for (int i = 0; i < size; i++) {
-                for (int j = 0; j < size; j++) {
-                    data[i][j] = dist.sample();
-                }
-            }
-
-            RealMatrix m = MatrixUtils.createRealMatrix(data);
-            checkUnsymmetricMatrix(m);
-        }
     }
 
     @Test

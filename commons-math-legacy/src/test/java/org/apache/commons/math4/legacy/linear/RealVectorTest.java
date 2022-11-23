@@ -35,13 +35,6 @@ public class RealVectorTest extends RealVectorAbstractTest{
     }
 
     @Test
-    @Ignore("Abstract class RealVector does not implement append(RealVector).")
-    @Override
-    public void testAppendVector() {
-        // Do nothing
-    }
-
-    @Test
     @Ignore("Abstract class RealVector does not implement append(double)")
     @Override
     public void testAppendScalar() {
