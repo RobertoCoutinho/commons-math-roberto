@@ -23,7 +23,6 @@ import org.apache.commons.math4.legacy.exception.MathIllegalArgumentException;
 import org.apache.commons.math4.core.jdkmath.JdkMath;
 import org.junit.Test;
 
-
 /**
  * Test for class {@link GradientFunction}.
  */
@@ -39,17 +38,13 @@ public class GradientFunctionTest {
                 TestUtils.assertEquals(f.gradient(point), g.value(point), 1.0e-15);
             }
         }
-    }
-
-    @Test
-    public void test3DDistance() {
-        EuclideanDistance f = new EuclideanDistance();
-        GradientFunction g = new GradientFunction(f);
+        EuclideanDistance f2 = new EuclideanDistance();
+        GradientFunction g2 = new GradientFunction(f2);
         for (double x = -10; x < 10; x += 0.5) {
             for (double y = -10; y < 10; y += 0.5) {
                 for (double z = -10; z < 10; z += 0.5) {
                     double[] point = new double[] { x, y, z };
-                    TestUtils.assertEquals(f.gradient(point), g.value(point), 1.0e-15);
+                    TestUtils.assertEquals(f2.gradient(point), g2.value(point), 1.0e-15);
                 }
             }
         }
@@ -68,7 +63,7 @@ public class GradientFunctionTest {
 
         @Override
         public DerivativeStructure value(DerivativeStructure[] point)
-            throws DimensionMismatchException, MathIllegalArgumentException {
+                throws DimensionMismatchException, MathIllegalArgumentException {
             DerivativeStructure d2 = point[0].getField().getZero();
             for (DerivativeStructure x : point) {
                 d2 = d2.add(x.multiply(x));
